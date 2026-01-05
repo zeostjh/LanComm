@@ -237,7 +237,7 @@ You never hear your own voice with network delay - only local sidetone!
 | Command | Description | Response |
 |---------|-------------|----------|
 | `GET_USERS` | Request user list | `USERS:Bob,Alice,Charlie` |
-| `SELECT_USER:Bob` | Select profile | `CONFIG:{channels, modes}` |
+| `SELECT_USER:` | Select profile | `CONFIG:{channels, modes}` |
 | `TOGGLE_TALK:2:1` | Enable talk on CH2 | (none) |
 | `SET_UDP:50123` | Advertise UDP port | `UDP_OK` |
 | `PING` | Heartbeat (every 10s) | `PONG` |
