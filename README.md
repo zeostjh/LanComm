@@ -1557,12 +1557,6 @@ feature requests
 
 ---
 
-### ⭐ Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=zeostjh/LanComm&type=Date)](https://star-history.com/#zeostjh/LanComm&Date)
-
----
-
 ### 🎯 Project Stats
 
 ![GitHub code size](https://img.shields.io/github/languages/code-size/zeostjh/LanComm?style=flat-square)
