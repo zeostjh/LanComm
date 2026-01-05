@@ -1,0 +1,24 @@
+# LanComm - Professional IP Intercom System
+# Python 3.9+ required
+
+# Core GUI framework
+PyQt6>=6.4.0
+
+# Audio processing
+numpy>=1.23.0
+pyaudio>=0.2.12
+
+# Network discovery
+zeroconf>=0.39.0
+netifaces>=0.11.0
+
+# Hardware support (Linux only - SBC deployment)
+# Uncomment if deploying to Orange Pi/Raspberry Pi:
+# smbus2>=0.4.2
+# gpiod>=1.5.3
+
+# Optional development dependencies
+# Uncomment for development work:
+# black>=23.0.0
+# pylint>=2.15.0
+# pytest>=7.2.0

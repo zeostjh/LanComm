@@ -1,0 +1,77 @@
+{
+  "users": {
+    "Bob": {
+      "channels": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "button_modes": {}
+    }
+  },
+  "channels": {
+    "0": "Pgm",
+    "1": "Video",
+    "2": "Audio",
+    "3": "Private",
+    "4": "Channel 5",
+    "5": "Channel 6",
+    "6": "Channel 7",
+    "7": "Channel 8",
+    "8": "Channel 9",
+    "9": "Channel 10"
+  },
+  "channel_volumes": {
+    "0": 0.8,
+    "1": 0.8,
+    "2": 0.8,
+    "3": 0.8,
+    "4": 0.8,
+    "5": 0.8,
+    "6": 0.8,
+    "7": 0.8,
+    "8": 0.8,
+    "9": 0.8
+  },
+  "channel_enabled": {
+    "0": true,
+    "1": true,
+    "2": true,
+    "3": true,
+    "4": false,
+    "5": false,
+    "6": false,
+    "7": false,
+    "8": false,
+    "9": false
+  },
+  "active_channel_count": 4,
+  "program_audio_device": null,
+  "program_audio_channel": 0,
+  "device_names": {},
+  "fourwire_enabled": [
+    false,
+    false
+  ],
+  "fourwire_input_device": [
+    null,
+    null
+  ],
+  "fourwire_output_device": [
+    null,
+    null
+  ],
+  "fourwire_channel": [
+    0,
+    1
+  ],
+  "fourwire_input_gain": [
+    0.62,
+    0.8
+  ],
+  "fourwire_output_gain": [
+    0.8,
+    0.8
+  ]
+}
