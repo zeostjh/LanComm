@@ -293,7 +293,7 @@ You never hear your own voice with network delay - only local sidetone!
 #### Core Components
 | Qty | Part | Description | Est. Cost | Source |
 |-----|------|-------------|-----------|--------|
-| 1 | SBC | Orange Pi 5 Pro (16GB) w/ built-in ES8388 audio | $110 | Orange Pi, AliExpress |
+| 1 | SBC | Orange Pi 5 Pro (16GB) w/ built-in ES8388 audio | $110 | Orange Pi |
 | 1 | PoE HAT | Waveshare PoE HAT (802.3af/at, 25.5W) | $22 | Waveshare, Amazon |
 | 4 | RGB Button | Gravity I2C RGB LED Button (DFRobot SEN0302) | $8 ea | DFRobot |
 | 4 | Rotary Encoder | EC11 Rotary Encoder (20 detents, 6mm shaft) | $2 ea | Amazon |
