@@ -70,7 +70,7 @@ RGB LED visual feedback
 
 ### Audio Performance
 ```
-🎵 48kHz 16-bit PCM          Professional uncompressed audio
+🎵 48kHz 16-bit PCM          uncompressed audio
 ⚡ <50ms latency              Faster than most commercial systems  
 🔊 Full-duplex               Talk and listen simultaneously
 🎚️ Null routing              Never hear your own voice delayed
